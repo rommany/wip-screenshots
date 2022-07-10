@@ -1,6 +1,6 @@
 import sys, os, re
 
-dir="2022"
+dir="2019"
 
 file = open(f"{dir}.md",'w')
 text=""
